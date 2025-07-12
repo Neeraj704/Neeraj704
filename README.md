@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi! I'm Neeraj, a CSE student with a focus on full stack web development and a growing interest in AI/ML. I love building full-stack applications using Next.js, Express, PostgreSQL, and MongoDB. I've worked on several real-world projects with features like authentication (JWT, OAuth, magic links, OTP) and real-time dashboards. I've participated in multiple hackathons (3x finalist) and enjoy clean UI/UX, designing in Figma, and editing videos. Currently diving deeper into backend architecture, database optimization, and building more scalable web apps.
+Hey! I'm Neeraj — a CSE student who loves building full-stack web apps that are clean, functional, and actually fun to use. I’ve worked with everything from frontend design to backend APIs, and I enjoy creating smooth user experiences and tackling real-world problems through code.
+
+- 🧠 3× Hackathon Finalist — always up for a good build challenge  
+- 🎨 I design in Figma and edit videos on the side  
+- 📌 Currently focused on backend architecture and scalable systems  
 
 
 ## 🌐 Socials:
